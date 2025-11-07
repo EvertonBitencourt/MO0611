@@ -4,7 +4,8 @@ import java.util.Date;
 
 
 public class Piloto {
-    
+    //esse é um arquivo versionado
+    //outra linha alterada
     private int idPiloto;
     private String nome;
     private float altura;
